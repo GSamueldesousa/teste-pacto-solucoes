@@ -1,4 +1,3 @@
-# teste-pacto-solucoes
 # Teste Automatizado - Pacto Soluções
 
 Projeto de teste end-to-end com **Playwright** para validar a busca por "Pacto Soluções" no Yahoo.
